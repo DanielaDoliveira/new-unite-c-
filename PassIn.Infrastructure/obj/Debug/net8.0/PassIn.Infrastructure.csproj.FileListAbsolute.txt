@@ -1,0 +1,12 @@
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/bin/Debug/net8.0/PassIn.Infrastructure.deps.json
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/bin/Debug/net8.0/PassIn.Infrastructure.dll
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/bin/Debug/net8.0/PassIn.Infrastructure.pdb
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.AssemblyInfoInputs.cache
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.AssemblyInfo.cs
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.dll
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/refint/PassIn.Infrastructure.dll
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.pdb
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/ref/PassIn.Infrastructure.dll
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.csproj.AssemblyReference.cache
