@@ -1,5 +1,6 @@
 
 using System.Net;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using PassIn.Communication.Responses;
 using PassIn.Exceptions;
@@ -13,7 +14,7 @@ public class ExceptionFilter : IExceptionFilter
         var result = context.Exception is PassInException;
         if (result)
         {
-            HandleProjectException();
+            HandleProjectException(context);
 
         }
         else
@@ -23,13 +24,22 @@ public class ExceptionFilter : IExceptionFilter
 
     }
 
-    private void HandleProjectException()
+    private void HandleProjectException(ExceptionContext context)
     {
-
+        if (context.Exception is NotFoundException)
+        {
+            context.HttpContext.Response.StatusCode = (int)HttpStatusCode.NotFound;
+            context.Result = new NotFoundObjectResult(new ResponseErrorJson(context.Exception.Message));
+        }
+        else if (context.Exception is ErrorOnValidationException)
+        {
+            context.HttpContext.Response.StatusCode = (int)HttpStatusCode.BadRequest;
+            context.Result = new BadRequestObjectResult(new ResponseErrorJson(context.Exception.Message));
+        }
     }
     private void ThrowUnknownError(ExceptionContext context)
     {
         context.HttpContext.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
-        //context.Result = new ObjectResult(new ResponseErrorJson(" Unknown Error. "));
+        context.Result = new ObjectResult(new ResponseErrorJson(" Unknown Error. "));
     }
 }

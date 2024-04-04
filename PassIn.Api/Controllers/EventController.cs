@@ -4,7 +4,7 @@ using PassIn.Application.UseCases.Events.GetById;
 using PassIn.Application.UseCases.Events.Register;
 using PassIn.Communication.Requests;
 using PassIn.Communication.Responses;
-using PassIn.Exceptions;
+
 
 namespace PassIn.Api.Controllers;
 
@@ -20,21 +20,13 @@ public class EventController : ControllerBase
     public IActionResult Register([FromBody] RequestEventJson request)
     {
 
-        try
-        {
-            var useCase = new RegisterUseCase();
-            var response = useCase.Execute(request);
-            return Created(string.Empty, response);
-        }
-        catch (PassInException error)
-        {
-            return BadRequest(new ResponseErrorJson(error.Message));
-        }
 
-        catch
-        {
-            return StatusCode(StatusCodes.Status500InternalServerError, new ResponseErrorJson(" Unknown Error. "));
-        }
+        var useCase = new RegisterUseCase();
+        var response = useCase.Execute(request);
+        return Created(string.Empty, response);
+
+
+
     }
     [HttpGet]
     [Route("{id}")]
@@ -42,20 +34,11 @@ public class EventController : ControllerBase
     [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status404NotFound)]
     public IActionResult GetById([FromRoute] Guid id)
     {
-        try
-        {
-            var useCase = new GetEventByIdUseCase();
-            var response = useCase.Execute(id);
-            return Ok(response);
-        }
-        catch (PassInException error)
-        {
-            return NotFound(new ResponseErrorJson(error.Message));
-        }
-        catch
-        {
-            return StatusCode(StatusCodes.Status500InternalServerError, new ResponseErrorJson(" Unknown Error. "));
-        }
+        var useCase = new GetEventByIdUseCase();
+        var response = useCase.Execute(id);
+        return Ok(response);
+
+
 
     }
 
