@@ -9,3 +9,4 @@
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Communication/obj/Debug/net8.0/refint/PassIn.Communication.dll
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.pdb
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Communication/obj/Debug/net8.0/ref/PassIn.Communication.dll
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.sourcelink.json

@@ -17,3 +17,4 @@
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Application/obj/Debug/net8.0/refint/PassIn.Application.dll
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Application/obj/Debug/net8.0/PassIn.Application.pdb
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Application/obj/Debug/net8.0/ref/PassIn.Application.dll
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Application/obj/Debug/net8.0/PassIn.Application.sourcelink.json

@@ -10,3 +10,4 @@
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.pdb
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/ref/PassIn.Infrastructure.dll
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.csproj.AssemblyReference.cache
+/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Infrastructure/obj/Debug/net8.0/PassIn.Infrastructure.sourcelink.json
