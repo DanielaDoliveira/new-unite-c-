@@ -42,18 +42,5 @@ public class EventController : ControllerBase
 
 
     }
-    [HttpPost]
-    [Route("{id}/register")]
-    [ProducesResponseType(typeof(ResponseEventJson), StatusCodes.Status201Created)]
-    [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status400BadRequest)]
-    [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status404NotFound)]
-    [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status409Conflict)]
-    public IActionResult Register([FromRoute] Guid id, [FromBody] RequestRegisterEventJson request)
-    {
-        var useCase = new RegisterAttendeeUseCase();
-        var response = useCase.Execute(id, request);
-        return Created(string.Empty, response);
-    }
-
 
 }
