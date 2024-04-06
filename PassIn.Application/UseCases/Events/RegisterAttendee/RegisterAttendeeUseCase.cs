@@ -58,7 +58,7 @@ public class RegisterAttendeeUseCase
         if (attendeeAlreadyRegistered)
             throw new ConflictException("You cannot register twice on same event");
 
-        if (attendeesForEvent > eventEntity.Maximum_Attendees)
+        if (attendeesForEvent >= eventEntity.Maximum_Attendees)
             throw new ErrorOnValidationException("There is no room for this event");
 
     }
