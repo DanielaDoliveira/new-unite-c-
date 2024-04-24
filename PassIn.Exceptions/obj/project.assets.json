@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Exceptions/PassIn.Exceptions.csproj",
+      "projectUniqueName": "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Exceptions/PassIn.Exceptions.csproj",
       "projectName": "PassIn.Exceptions",
-      "projectPath": "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Exceptions/PassIn.Exceptions.csproj",
+      "projectPath": "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Exceptions/PassIn.Exceptions.csproj",
       "packagesPath": "/Users/danielafialhodoliveira/.nuget/packages/",
-      "outputPath": "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Exceptions/obj/",
+      "outputPath": "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Exceptions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/danielafialhodoliveira/.nuget/NuGet/NuGet.Config"

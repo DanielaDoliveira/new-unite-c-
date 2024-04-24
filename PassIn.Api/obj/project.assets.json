@@ -1679,11 +1679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Api/PassIn.Api.csproj",
+      "projectUniqueName": "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Api/PassIn.Api.csproj",
       "projectName": "PassIn.Api",
-      "projectPath": "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Api/PassIn.Api.csproj",
+      "projectPath": "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Api/PassIn.Api.csproj",
       "packagesPath": "/Users/danielafialhodoliveira/.nuget/packages/",
-      "outputPath": "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Api/obj/",
+      "outputPath": "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/danielafialhodoliveira/.nuget/NuGet/NuGet.Config"
@@ -1698,14 +1698,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Application/PassIn.Application.csproj": {
-              "projectPath": "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Application/PassIn.Application.csproj"
+            "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Application/PassIn.Application.csproj": {
+              "projectPath": "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Application/PassIn.Application.csproj"
             },
-            "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Communication/PassIn.Communication.csproj": {
-              "projectPath": "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Communication/PassIn.Communication.csproj"
+            "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/PassIn.Communication.csproj": {
+              "projectPath": "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/PassIn.Communication.csproj"
             },
-            "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Exceptions/PassIn.Exceptions.csproj": {
-              "projectPath": "/Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Exceptions/PassIn.Exceptions.csproj"
+            "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Exceptions/PassIn.Exceptions.csproj": {
+              "projectPath": "/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Exceptions/PassIn.Exceptions.csproj"
             }
           }
         }

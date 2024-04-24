@@ -10,3 +10,15 @@
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.pdb
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Communication/obj/Debug/net8.0/ref/PassIn.Communication.dll
 /Users/danielafialhodoliveira/Documents/dotNET/Desafios/PassIn/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.sourcelink.json
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/bin/Debug/net8.0/PassIn.Communication.deps.json
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/bin/Debug/net8.0/PassIn.Communication.dll
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/bin/Debug/net8.0/PassIn.Communication.pdb
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.AssemblyInfoInputs.cache
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.AssemblyInfo.cs
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.csproj.CoreCompileInputs.cache
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.sourcelink.json
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.dll
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/obj/Debug/net8.0/refint/PassIn.Communication.dll
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/obj/Debug/net8.0/PassIn.Communication.pdb
+/Users/danielafialhodoliveira/Documents/Frontend/backend/new-unite-c-/PassIn.Communication/obj/Debug/net8.0/ref/PassIn.Communication.dll
